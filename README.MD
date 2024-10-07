@@ -1,1 +1,1 @@
-Simon Says Game Using HTML CSS JAVASCRIPT.
+Simon Says Game Using Plain HTML CSS JAVASCRIPT.
